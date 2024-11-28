@@ -163,6 +163,13 @@ nav ul li a:hover {
     gap: 20px;
     justify-content: center;
 }
+.doom span a
+{
+    
+    gap:20px;
+    text-decoration: none;
+    color: rgb(24, 139, 24);
+}
 .part4
 {
     display: flex;
@@ -332,7 +339,7 @@ footer {
 
 @media (max-width: 480px) {
     .header-container {
-        
+                                                                                 
         text-align: center;
     }
 
